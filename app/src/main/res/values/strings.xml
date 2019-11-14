@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FishTwo</string>
+    <string name="measure">Mål</string>
+    <string name="home">Hjem</string>
+    <string name="wiki">WikiFish</string>
+    <string name="hotspot">Hot</string>
+    <string name="add_dialog_txt">Tilføj billeder og kommentarer:</string>
+    <string name="dialog_add_btn">Tilføj</string>
+    <string name="posts_btn">Se opslag</string>
+    <string name="measure_txt">Measure - her kan du måle din fisk. Google Measure skal være installeret for at bruge funktionen...</string>
+    <string name="home_txt">Her kan du se hotspots for Aarhus Havn.</string>
+    <string name="wikifish_txt">WikiFish - Find den fisk i dit fiskeleksikon over Aarhus Havn.</string>
+    <string name="post_txt">Her implementeres ListView med billeder og kommentarer fra brugerne. </string>
+    <string name="camera_btn">Kamera</string>
+    <string name="galley_btn">Galleri</string>
+</resources>
